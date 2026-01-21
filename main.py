@@ -8,7 +8,6 @@ import random
 import uuid
 
 class Grok:
-    """OnlyFans login checker class"""
 
     BASE_URL = "https://accounts.x.ai/sign-in?redirect=grok-com&email=true"
 
