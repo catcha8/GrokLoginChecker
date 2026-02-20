@@ -8,6 +8,8 @@ WORKS !!
 
 ## Turnstile Solver API
 
+
+# Register at [https://nslsolver.com](https://nslsolver.com)
 To get a **free Turnstile solver API key**, contact:
 
 - **Discord Server:** [https://discord.gg/fwrvaMG755](https://discord.gg/fwrvaMG755)
